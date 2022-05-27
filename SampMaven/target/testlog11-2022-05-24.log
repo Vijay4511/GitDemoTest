@@ -1,0 +1,4 @@
+10:00:57.032 [main] DEBUG base.init - Clicked on forgetpassword button
+10:00:57.333 [main] DEBUG base.init - Clicked on eticketlogin button
+10:00:57.412 [main] DEBUG base.init - Entered username
+10:00:57.504 [main] DEBUG base.init - Entered password
